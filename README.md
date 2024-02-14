@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jakeAi</h1>
 <h3 align="center">An undergraduate student majoring in computer science and technology at Wuhan University. I'm new to programming and eager to learn.</h3>
 
-- 🔭 I’m currently **working hard at WHU**
+- 🔭 I’m currently **working hard at WHU**<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 
 - 🌱 I’m currently learning python...
 
