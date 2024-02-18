@@ -13,14 +13,17 @@
 ### :hammer_and_wrench: Technologies and Tools I use:
 <p align="left">
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img alt="neovim" src="https://img.shields.io/badge/neovim-green?style=for-the-badge&logo=neovim&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41" />
+<img alt="neovim" src="https://img.shields.io/badge/neovim-green?style=for-the-badge&logo=neovim&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"/>
+<img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img alt="win11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
+<img alt="wsl" src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
 
 ### Some stats about me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jakeiaCyber&show_icons=true&title_color=6b00b6&icon_color=ff009d&text_color=00ffcd&bg_color=171717)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeiaCyber&layout=compact&exclude_repo=sumy7.github.io&title_color=6b00b6&icon_color=ff009d&text_color=00ffcd&bg_color=171717)](https://github.com/anuraghazra/github-readme-stats)
+![profile langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeiaCyber&layout=compact&hide=html&theme=rose_pine&hide_border=true) ![profile card](https://github-readme-stats.vercel.app/api?username=jakeiaCyber&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jakeiaCyber&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jakeiaCyber&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
