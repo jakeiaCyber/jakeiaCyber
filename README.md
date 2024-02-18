@@ -13,6 +13,7 @@
 ### :hammer_and_wrench: Technologies and Tools I use:
 <p align="left">
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="neovim" src="https://img.shields.io/badge/neovim-green?style=for-the-badge&logo=neovim&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41" />
 </p>
 
 ---
