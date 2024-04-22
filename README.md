@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **jakeiacyber@gmail.com**
 
-- ⚡ Fun fact: **I'm a neovim user, but I also enjoy using IDEs. I prefer working in the terminal.**
+- ⚡ Fun fact: **I'm a fan of neovim and tmux.I prefer working in the terminal.**
 ---
 
 ### :hammer_and_wrench: Technologies and Tools I use:
@@ -26,4 +26,3 @@
 
 ![profile langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeiaCyber&layout=compact&hide=html&theme=rose_pine&hide_border=true) ![profile card](https://github-readme-stats.vercel.app/api?username=jakeiaCyber&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jakeiaCyber&theme=catppuccin-macchiato)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jakeiaCyber&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
