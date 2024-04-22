@@ -25,4 +25,3 @@
 ### Some stats about me
 
 ![profile langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeiaCyber&layout=compact&hide=html&theme=rose_pine&hide_border=true) ![profile card](https://github-readme-stats.vercel.app/api?username=jakeiaCyber&show_icons=true&hide=contribs&theme=rose_pine&hide_border=true&text_bold=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jakeiaCyber&theme=catppuccin-macchiato)](https://git.io/streak-stats)
