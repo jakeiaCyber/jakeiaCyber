@@ -1,3 +1,8 @@
+<div align="center">
+  <h1><pre>Hi, I'm Jakeia</pre></h1>
+</div>
+
+
 ### :hammer_and_wrench: Technologies and Tools I use:
 <p align="left">
 <img alt="neovim" src="https://img.shields.io/badge/neovim-green?style=for-the-badge&logo=neovim&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"/>
