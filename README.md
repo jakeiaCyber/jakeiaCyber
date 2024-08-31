@@ -9,7 +9,7 @@
 </p>
 
 ### Tools
-![tools](https://skillicons.dev/icons?i=neovim,github,vscode,apple,linux,windows,git,gitlab,discord&perline=6&theme=dark)
+![tools](https://skillicons.dev/icons?i=neovim,vscode,apple,linux,windows,git,github,cpp,py&perline=6&theme=dark)
 
 <p align="center">
   <img alt="jakeia's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jakeiaCyber&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
