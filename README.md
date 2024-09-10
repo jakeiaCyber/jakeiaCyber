@@ -8,7 +8,10 @@
   <img alt="jakeia's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jakeiaCyber&show_icons=true&theme=transparent&hide_border=true" align="center" />
 </p>
 
-### Tools
+### 🪐 Devices
+[![](https://img.shields.io/badge/-Macbook%20Pro%20M3-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro-13/)
+
+### ⚡ Tools
 ![tools](https://skillicons.dev/icons?i=neovim,vscode,apple,linux,windows,git,github,cpp,py&perline=6&theme=dark)
 
 <p align="center">
